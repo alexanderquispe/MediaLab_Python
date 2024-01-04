@@ -1,2 +1,8 @@
 # MediaLab_Python
-this is a repo for python course in Media/Visual faculty
+This is a repo for a python course in Media/Visual faculty.
+
+## Students 
+1. Vanessa Azañedo
+2. Diego Du Pont
+3. Laura Quequejana
+4. Eduardo Ore
