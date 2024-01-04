@@ -12,5 +12,6 @@ This is a repo for a python course in Media/Visual faculty.
 1. Diez cosas que odio de ti
 2. Todo en todas partes al mismo tiempo
 3. Shrek 2
-4. Viaje Chihiro
-5. Tu Nombre
+
+## Singers
+1. Michael Jackson
