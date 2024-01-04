@@ -6,3 +6,4 @@ This is a repo for a python course in Media/Visual faculty.
 2. Diego Du Pont
 3. Laura Quequejana
 4. Eduardo Ore
+5. Favio Quenaya
