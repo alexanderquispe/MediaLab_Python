@@ -15,3 +15,9 @@ This is a repo for a python course in Media/Visual faculty.
 
 ## Singers
 1. Michael Jackson
+2. Conan Gray
+3. Maroon Five
+4. Los Prisioneros
+5. Taylor Swift
+6. Nectar
+7. Pedro Suarez-Vertiz
